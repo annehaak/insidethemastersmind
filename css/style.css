@@ -1286,7 +1286,7 @@ Parallax
 ============================= */
 
 #parallax1{
-	background-image: url(https://raw.githubusercontent.com/annehaak/insidethemastersmind/master/img/The%20Mind%20of%20Michelangelo-2.png);
+	background-image: url(https://raw.githubusercontent.com/annehaak/insidethemastersmind/master/img/270d46151bd9dabd9eebfb178ea42201.jpg);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
@@ -1308,7 +1308,7 @@ Parallax
 
 
 #parallax2{
-	background-image: url(../img/parallax/2.jpg);
+	background-image: url(https://raw.githubusercontent.com/annehaak/insidethemastersmind/master/img/911432378001_5543099078001_5543078939001-vs.jpg);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
@@ -1329,7 +1329,7 @@ Parallax
 }
 
 #parallax3{
-	background-image: url(../img/parallax/3.jpg);
+	background-image: url(https://raw.githubusercontent.com/annehaak/insidethemastersmind/master/img/CP_MICHELANGELO_creation-of-adam-study1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
