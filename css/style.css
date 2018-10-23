@@ -1286,7 +1286,7 @@ Parallax
 ============================= */
 
 #parallax1{
-	background-image: url(../img/parallax/1.jpg);
+	background-image: url(https://raw.githubusercontent.com/annehaak/insidethemastersmind/master/img/The%20Mind%20of%20Michelangelo-2.png);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
